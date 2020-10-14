@@ -1,0 +1,8 @@
+.suggestion{
+    display: flex;
+}
+.suggestions{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
